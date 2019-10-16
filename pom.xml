@@ -42,13 +42,7 @@
 
     <scm>
 
-<!--        <url>https://github.com/AdrianRomanski/sfg-pet-clinic.git</url>-->
-
-         <connection>scm:git:git@github.com:AdrianRomanski/sfg-pet-clinic.git</connection>
-
         <developerConnection>scm:git:git@github.com:AdrianRomanski/sfg-pet-clinic.git</developerConnection>
-
-       <tag>sfg-spring-petclinic-0.0.1</tag>
-
+        
     </scm>
 </project>
