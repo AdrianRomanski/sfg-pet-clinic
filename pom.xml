@@ -48,7 +48,7 @@
 
         <developerConnection>scm:git:git@github.com:AdrianRomanski/sfg-pet-clinic.git</developerConnection>
 
-        <tag>sfg-spring-petclinic-0.0.1</tag>
+        <tag>HEAD</tag>
 
     </scm>
 </project>
