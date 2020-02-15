@@ -1,0 +1,5 @@
+adrianromanski\sfgpetclinic\controllers\VetController.class
+adrianromanski\sfgpetclinic\controllers\indexController.class
+adrianromanski\sfgpetclinic\controllers\OwnerController.class
+adrianromanski\sfgpetclinic\bootstrap\DataLoader.class
+adrianromanski\sfgpetclinic\SfgPetClinicApplication.class
