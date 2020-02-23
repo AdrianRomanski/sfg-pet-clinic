@@ -17,6 +17,7 @@
 
     </properties>
 
+    <packaging>pom</packaging>
     <artifactId>pet-clinic-web</artifactId>
     <dependencies>
         <!-- webjars -->
