@@ -9,7 +9,6 @@
     <properties>
         <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
     </properties>
-    <packaging>pom</packaging>
     <artifactId>pet-clinic-data</artifactId>
     <dependencies>
         <dependency>
