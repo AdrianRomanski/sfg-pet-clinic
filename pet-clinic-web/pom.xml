@@ -7,7 +7,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>pet-clinic-web</artifactId>
+
     <properties>
         <!-- Web dependencies -->
         <webjars-bootstrap.version>3.3.7-1</webjars-bootstrap.version>
@@ -17,7 +17,7 @@
 
     </properties>
 
-
+    <artifactId>pet-clinic-web</artifactId>
     <dependencies>
         <!-- webjars -->
         <dependency>
@@ -43,7 +43,7 @@
         <dependency>
             <artifactId>pet-clinic-data</artifactId>
             <groupId>adrianromanski</groupId>
-            <version>0.0.1</version>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
