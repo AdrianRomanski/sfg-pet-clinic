@@ -14,6 +14,7 @@ adrianromanski\sfgpetclinic\services\SpecialityService.class
 adrianromanski\sfgpetclinic\services\springdatajpa\VisitSDJpaService.class
 adrianromanski\sfgpetclinic\model\Person.class
 adrianromanski\sfgpetclinic\repositories\PetTypeRepository.class
+adrianromanski\sfgpetclinic\model\Pet$PetBuilder.class
 adrianromanski\sfgpetclinic\services\springdatajpa\OwnerSDJpaService.class
 adrianromanski\sfgpetclinic\services\PetService.class
 adrianromanski\sfgpetclinic\services\springdatajpa\PetSDJpaService.class
