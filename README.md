@@ -1,2 +1,5 @@
-# sfg-pet-clinic
-SFT Pet Clinic
+# Pet Clinic
+[![CircleCI](https://circleci.com/gh/AdrianRomanski/sfg-pet-clinic.svg?style=svg)](https://circleci.com/gh/AdrianRomanski/sfg-pet-clinic)
+
+Contained in this repo is an opinionated version of the classic reference application - https://github.com/spring-projects/spring-petclinic
+
